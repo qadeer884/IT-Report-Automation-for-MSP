@@ -8,10 +8,8 @@ This solution replaced a manual process that previously took 2–3 hours per cli
 
 ---
 
-## 📸 Screenshot
 
-![IT Report Automation Interface](it_report.PNG)  
-*(Replace `it_report_screenshot.png` with your actual screenshot.)*
+![IT Report Automation Interface](It_report.PNG)  
 
 ---
 
